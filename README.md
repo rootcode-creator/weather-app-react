@@ -27,10 +27,6 @@
 	<a href="#-available-scripts"><img src="https://img.shields.io/badge/RUN-SCRIPTS-A855F7?style=for-the-badge&logo=files&logoColor=white&labelColor=7E22CE" alt="Scripts" /></a>
 </p>
 
-## weather-app-react — README
-
-Lightweight weather application built with react and vite that lets users search a city and view current temperature, min/max values, humidity, and feels-like conditions.
-
 ## Table of Contents
 
 - [🚀 Project intro](#-project-intro)
