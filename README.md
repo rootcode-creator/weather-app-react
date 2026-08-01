@@ -29,7 +29,7 @@
 
 ## weather-app-react — README
 
-Lightweight weather application built with React + Vite that lets users search a city and view current temperature, min/max values, humidity, and feels-like conditions.
+Lightweight weather application built with react and vite that lets users search a city and view current temperature, min/max values, humidity, and feels-like conditions.
 
 ## Table of Contents
 
